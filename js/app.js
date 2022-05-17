@@ -110,10 +110,10 @@
 document.getElementById('con-log').innerHTML = `
 <div class="con-login my-4 w-100 d-flex justify-content-around">
 <div class="contact d-flex justify-content-around w-50">
-    <p>Contact:+6969696969
+    <p>Contact:+91 6353467371
     </p>
     <p>
-        Email:rdxninja1234@gmail.com
+        Email: onthespot@gmail.com
     </p>
 </div>
 <div class="login d-flex justify-content-evenly w-50">
